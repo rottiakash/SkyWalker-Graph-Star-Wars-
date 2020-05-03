@@ -31,6 +31,7 @@ let data = [
     name: "Leia Organa",
     title: "Princess of Alderaan",
     son: "12",
+    husband: "11",
     gaurdian: ["9", "10"],
   },
   { id: "9", name: "Bail Organa" },
